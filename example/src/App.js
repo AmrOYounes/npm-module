@@ -1,12 +1,11 @@
-import React, { Component } from 'react'
-
-import ExampleComponent from 'loveme'
+import React, { Component } from 'react';
+import Navbar from 'loveme';
 
 export default class App extends Component {
-  render () {
+  render() {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+      <Navbar></Navbar>
       </div>
     )
   }
