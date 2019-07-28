@@ -12,12 +12,12 @@ npm install --save loveme
 
 ## Usage
 
-```tsx
-import * as React from 'react'
+```jsx
+import React, { Component } from 'react'
 
 import MyComponent from 'loveme'
 
-class Example extends React.Component {
+class Example extends Component {
   render () {
     return (
       <MyComponent />
