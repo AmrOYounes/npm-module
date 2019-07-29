@@ -12,8 +12,6 @@ npm install --save loveme
 
 ## Description
 
-heloo baby
-
 ## Usage
 
 ```jsx
@@ -31,3 +29,4 @@ class Example extends Component {
 ## License
 
 MIT © [AmrOYounes](https://github.com/AmrOYounes)
+n
