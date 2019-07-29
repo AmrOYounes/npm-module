@@ -17,11 +17,11 @@ npm install --save loveme
 ```jsx
 import React, { Component } from "react";
 
-import MyComponent from "loveme";
+import Loveme from "loveme";
 
 class Example extends Component {
   render() {
-    return <loveme />;
+    return <Loveme />;
   }
 }
 ```
