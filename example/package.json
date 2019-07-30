@@ -1,6 +1,6 @@
 {
   "name": "loveme-example",
-  "homepage": "https://AmrOYounes.github.io/loveme",
+  "homepage": "https://AmrOYounes.github.io//npm-module/blob/master/src/index.js",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -8,8 +8,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "^1.1.4",
-    "loveme": "file:.."
+    "react-scripts": "^1.1.4", 
   },
   "scripts": {
     "start": "react-scripts start",
